@@ -1,0 +1,26 @@
+{
+  "name": "vbarrage",
+  "version": "0.1.0",
+  "description": "Easy and lightest danmaku component for web UI.一个易用且轻便的canvas弹幕插件",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "danmaku",
+    "barrage",
+    "弹幕",
+    "danmu",
+    "canvas",
+    "easy",
+    "lightest",
+    "vue",
+    "bulletscreen",
+    "simple"
+  ],
+  "author": "minisu",
+  "license": "ISC"
+}
